@@ -1,0 +1,58 @@
+    Q1-Q3
+Private key: cVYE4nK9ZoysvsEcPkaqhceaCft5A8cziBxsnYBvWmBV1swWk2NS
+Address: mqrNP3qtb6zrphFAkwi9caY8f8v65VbZXx
+
+    Alice
+Private key: cQBP5RPF4SryDecm7Ghh1g6YBCHEzasRdX9sRBXCAyjRzGV8Eenn
+Address: n31hKs3jQ2HBjv21QB7SEqDKMNSQ9AYEoe
+
+    Bob
+Private key: cQYdKdAWGnDSGXQ43z8nz4XdfmhNMYaTGChfT22bF8QBW8orckau
+Address: mkZfjsmgKho6mPFzgwqCSaJVtxxaE2sncd
+
+    bitcoin testnet Tx detail Q1-3
+Transaction sent
+
+TxID: 0d237766b1e4deffc26c925e7665063c353cb067f2a800b799a0eba2643b105f
+Address: mqrNP3qtb6zrphFAkwi9caY8f8v65VbZXx  (UTXO)
+Amount: 0.001
+
+    Q3 3 customers
+Private key: cNueuxnikv79izoREdorckhCM4uiru8LE4zbb1JRCdAuKVgNYZuJ
+Address: msCxQidSJJzKczMn3EvF7CigbkyL22ijbc
+
+Private key: cQudXCCUjYoPZihecq5mUuYFr7kFZQPXbdSM3jRHyRg1319AB5Mn
+Address: mqH2ikxhWG1XcQaugJ2LHA9dxxeDueVP37
+
+Private key: cUfH5fzpSQiK66CifHq3fDghcHZ7emqxXFHGeGfcA8aC8j1AxiVH
+Address: mvVSvDgwqgbSttyUb9CEE6A3bbjFdQEhDZ
+
+
+
+
+
+
+    blockcypher for q4 Alice
+{
+  "private": "6010da75c0ce00388f909c04dbcf7a6ed25000bf311ff6f425243ab5116e8dff",
+  "public": "0233ecc1550b1a31bdb16e3f88dc66f84204170f88682f7e9629a4cc0fef69b32b",
+  "address": "CBjKJRJyeDgnPJgccMo4Y1duoswTWNih32",
+  "wif": "BrYmdDMnppGdcUDn7G9Fs9x2tEEZ9JECnncgqGBZKtsk8tAeREKN"
+}%      
+
+
+    blockcypher for q4 Bob
+
+{
+  "private": "f9186b0dbeb85e3ec6e44467f60663f5e3d2bbaf78b2394823650608526378f5",
+  "public": "0271ad8d55510cd06dc05981bece1352a6898f30723d1a84ccf53fd4bf1d077a9f",
+  "address": "ByXcCBUSAYAa6sk2iBxqdpp74jtEDKJYTa",
+  "wif": "BwgErSMno8HwSqTfkdYf6QNjN8LsWqLz87X6TDFGwNk79GWukqN9"
+}%  
+
+    blockcypher request for Bob's money
+
+87af01bdfa
+{
+  "tx_ref": "83c51ffe83171bdf87ac97eab2b39f24d2b046c1664ad55a2ec88c880530345e"
+}%         
